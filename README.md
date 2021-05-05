@@ -1,8 +1,29 @@
-# quinto_app_flutter
 
-Meu quinto app flutter do Curso 
+## Aplicativo para Sorteio de Moeda, Cara ou Coroa
+#### Trata-se de um aplicativo simples, para aplicar conceitos de um Curso de Flutter da Udemy! #App5
 
-## Getting Started
+
+### Conceitos | Implementações:
+- Widgets e Material design
+- Estrutura de um App
+- Colunas e linhas
+- Formatação de textos
+- Botões
+- Espaçamentos
+- Alinhamentos
+- Imagens
+- Layout base com Scaffold
+- Stateless & Stateful
+- Gesture Detector
+- Navegação entre páginas: MaterialPageRoute
+- Operação lógica: Random
+- Passando Dados entre Telas
+
+
+<img src = 'imagens/caracoroa.gif' width='350'/> 
+
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
